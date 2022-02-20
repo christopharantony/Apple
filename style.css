@@ -1,0 +1,79 @@
+body{
+    background-color: #fbfbfd;
+}
+/* .cont_1{
+    text-align: center;
+} */
+.heading_1{
+    font-weight: bold;
+}
+.para_1{
+    background-color: #f5f5f7;
+    color: #1d1d1f;
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+}
+.link_1{
+    color: #06c;
+}
+.headbg{
+    background-color: #fbfbfd;
+}
+.cont_2{
+    background-color: #34283c;
+    text-align: center;
+}
+.heading_2{
+    font-weight: bold;
+    color: #f5f5f7;
+    
+}
+.h1{
+    color: #f3bae2;
+}
+.colorheading{
+    color: #f3bae2;
+}
+.iphone{
+    width: 100%;
+}
+.promologo{
+    width: 10rem;
+}
+.promos{
+    background-color: #fff;
+}
+.promo_1{
+    background-color: #f5f5f7;
+    cursor: pointer;
+}
+.promo_2{
+    background-color: #fbfbfd ;
+    cursor: pointer;
+}
+.footer_para{
+    background-color: #f5f5f7;
+    font-size: 12px;
+    color: #6e6e73;
+    
+}
+.footer_border{
+    border-bottom: 1px solid #d2d2d7;
+}
+.footer_points{
+    
+    font-size: 12px;
+    color: #6e6e73;
+    list-style: none;
+    padding: 0;
+    cursor: pointer;
+}
+.footer_head{
+    font-size: 12px;
+    font-weight: 500;
+    padding-top: 10px;
+    cursor: context-menu;
+}
+.footer_{
+    background-color: #f5f5f7;
+}
